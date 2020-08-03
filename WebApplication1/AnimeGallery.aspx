@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#"  MasterPageFile="~/Partical2.Master" AutoEventWireup="true" CodeBehind="AnimeGallery.aspx.cs" Inherits="Costume.AnimeGallery" %>
 
 
-
+Hellloooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <link href="css/CS_Style.css" type="text/css" rel="stylesheet" />
